@@ -1,2 +1,3 @@
 # 2day-demo
-this id the demo repo
+this is the demo repo
+author -- Tanvi Diwakar
